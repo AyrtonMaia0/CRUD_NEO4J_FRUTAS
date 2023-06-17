@@ -1,5 +1,6 @@
 from neo4j import GraphDatabase
 from senha import password
+from uri import uri
 
 
 # START FUNCOES CRUD
@@ -50,7 +51,7 @@ def Escolha():
 def main():
 
     # Aqui é a parte que Conecta ao banco Neo4j
-    driver = GraphDatabase.driver("neo4j+s://a28c5a3b.databases.neo4j.io", auth=("neo4j", password))
+    driver = GraphDatabase.driver(uri, auth=("neo4j", password))
 
     while True:
         Menu()

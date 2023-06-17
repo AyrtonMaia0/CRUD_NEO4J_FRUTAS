@@ -3,6 +3,8 @@
 Você vai encontrar neste repositório um CRUD na linguagem Python, configurado para armazenar Nome de Frutas no Banco de Dados NoSQL Neo4j.
 <br>
 <br>
+Obs.: As os arquivos de 'senha' e 'uri' foram removidos para segurança.
+<br>
 <br>
 <h2 >Desenvolvedores</h2>
 <table>

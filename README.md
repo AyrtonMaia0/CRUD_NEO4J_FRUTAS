@@ -4,7 +4,7 @@ Você vai encontrar neste repositório um CRUD na linguagem Python, configurado 
 <br>
 <br>
 <br>
-<h2 >Colaboradores</h2>
+<h2 >Desenvolvedores</h2>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AyrtonMaia0"><img src="https://avatars.githubusercontent.com/u/98968093?v=4" width="100px;" alt="Imagem Ayrton Maia"/><br /><sub><b>Ayrton Maia</b></sub></a></td>

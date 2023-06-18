@@ -2,6 +2,7 @@
 
 Você vai encontrar neste repositório um CRUD na linguagem Python, configurado para armazenar Nome de Frutas no Banco de Dados NoSQL Neo4j.
 <br>
+<br>
 Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido como atividade para a disciplina de Banco de Dados Não Convencionais. O objetivo principal deste CRUD é conectar-se a um banco de dados específico.
 <br>
 <br>
@@ -23,6 +24,7 @@ O CRUD implementado neste projeto permite realizar as seguintes operações:
 <br>
 <br>
 Instruções de Uso:
+<br>
 <br>
 1. Clone este repositório em sua máquina local;
 2. Certifique-se de ter o Neo4J instalado ou utilize a plataforma AuraDB Free Tier para criar um banco de dados Neo4J;

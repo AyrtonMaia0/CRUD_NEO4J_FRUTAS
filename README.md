@@ -24,12 +24,12 @@ O CRUD implementado neste projeto permite realizar as seguintes operações:
 <br>
 Instruções de Uso:
 <br>
-- 1. Clone este repositório em sua máquina local.
-- 2. Certifique-se de ter o Neo4J instalado ou utilize a plataforma AuraDB Free Tier para criar um banco de dados Neo4J.
-- 3. Configure as credenciais de conexão ao banco de dados “URI e password”, que são informados na plataforma do Neo4J.
-- 4. Rode o comando ‘pip install neo4j’ na pasta do projeto para instalar as dependências.
-- 5. Execute o arquivo principal do projeto para iniciar a aplicação ‘python nome_arquivo.py’.
-- 6. Utilize os comandos disponíveis para interagir com o CRUD e gerenciar os registros de frutas.
+- Clone este repositório em sua máquina local.
+- Certifique-se de ter o Neo4J instalado ou utilize a plataforma AuraDB Free Tier para criar um banco de dados Neo4J.
+- Configure as credenciais de conexão ao banco de dados “URI e password”, que são informados na plataforma do Neo4J.
+- Rode o comando ‘pip install neo4j’ na pasta do projeto para instalar as dependências.
+- Execute o arquivo principal do projeto para iniciar a aplicação ‘python nome_arquivo.py’.
+- Utilize os comandos disponíveis para interagir com o CRUD e gerenciar os registros de frutas.
 <br>
 <br>
 Contribuições são bem-vindas! Caso tenha alguma ideia de melhoria, correção de bugs ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
